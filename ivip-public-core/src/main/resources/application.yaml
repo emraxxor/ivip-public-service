@@ -26,6 +26,10 @@ keycloak:
   bearer-only: true
 
 ivip:
+  elasticsearch:
+    enabled: true
+    host: localhost
+    port: 9200
   feign:
     enabled: true
   auth:

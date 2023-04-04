@@ -22,10 +22,14 @@
         </dependency>
         <dependency>
             <groupId>com.github.emraxxor.ivip</groupId>
+            <artifactId>ivip-public-configuration</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.emraxxor.ivip</groupId>
             <artifactId>ivip-public-api</artifactId>
             <version>${project.version}</version>
         </dependency>
-
     </dependencies>
 
     <build>

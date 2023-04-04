@@ -1,4 +1,4 @@
-package com.github.emraxxor.ivip.api.service;
+package com.github.emraxxor.ivip.api.pub.service;
 
 import com.github.emraxxor.ivip.common.feign.clients.IvipPublicFeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
